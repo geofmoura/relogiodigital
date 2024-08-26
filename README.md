@@ -13,7 +13,7 @@ Este projeto é um simples relógio digital desenvolvido utilizando HTML, CSS e 
 -JavaScript: Lógica para obter a hora atual e atualizar o relógio em tempo real. <br>
 
 ## Instruções para Execução:
-git clone https://github.com/seuusuario/relogio-digital.git <br>
+git clone https://github.com/geofmuoura/relogio-digital.git <br>
 
 ### Navegue até o Diretório do Projeto <br>
 -Abra o Arquivo index.html
